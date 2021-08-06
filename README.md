@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Card Project
 
-> HTML & CSS #7th Practice Project (Card).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Card Project.
 
 ## Live Demo
 
