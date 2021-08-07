@@ -49,6 +49,7 @@ a {
   border-radius: 8px;
 }
 
+/* Name style */
 .name {
   font-size: 2rem;
   font-weight: bold;
@@ -56,6 +57,7 @@ a {
   padding-left: 15px;
 }
 
+/* Buttom section style */
 .location,
 .friend,
 .date {
